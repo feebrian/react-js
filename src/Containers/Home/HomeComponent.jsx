@@ -18,7 +18,7 @@ class HomeComponent extends React.Component {
           watchTime="500x ditonton - 10 Hari yang lalu"
         />
         <YoutubeComp
-          time="12:58"
+          time="9:58"
           title="Belajar ReactJs Eps. 3"
           desc="Lorem ipsum dolor sit."
           watchTime="73x ditonton - 10 Hari yang lalu"

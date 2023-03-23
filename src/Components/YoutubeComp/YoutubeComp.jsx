@@ -22,11 +22,10 @@ const YoutubeComp = (props) => {
 };
 
 YoutubeComp.defaultProps = {
-  time: "00:00",
+  time: "0:00",
   title: "Title",
   desc: "Video Excerpt",
-  watchTime: "0x ditonton - 0 Menit yang lalu"
-
-}
+  watchTime: "0x ditonton - 0 Menit yang lalu",
+};
 
 export default YoutubeComp;
